@@ -1,2 +1,2 @@
-# Power-BI-Projects
+# Power-BI
 This is my learning journey...
